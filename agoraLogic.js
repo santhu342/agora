@@ -7,11 +7,11 @@ let rtc = {
 
 let options = {
     // Pass your app ID here.
-    appId: "af96babb2eb74bf0aa9b3081e9b75066",
+    appId: "Your app ID",
     // Set the channel name.
     channel: "test",
     // Use a temp token
-    token: null,
+    token: "Your temp token",
     // Set the user ID.
     uid: 123456,
 };
